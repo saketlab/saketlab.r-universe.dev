@@ -2,5 +2,15 @@
     {
         "package": "censusindia",
         "url": "https://github.com/saketlab/censusindia"
+    },
+    {
+        "package": "anumaan",
+        "url": "https://github.com/saketlab/anumaan"
+    },
+    {
+        "package": "seqout",
+        "url": "https://github.com/saketlab/seqout",
+        "subdir": "R",
+        "branch": "master"
     }
 ]

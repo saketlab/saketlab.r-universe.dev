@@ -11,7 +11,7 @@
         "package": "seqout",
         "url": "https://github.com/saketlab/seqout",
         "subdir": "R",
-        "branchin"
+        "branch": "main"
     },
     {
         "package": "genevintage",

@@ -18,6 +18,17 @@
         "url": "https://github.com/saketlab/genevintage",
         "subdir": "R",
         "branch": "main"
+    },
+    {
+        "package": "lightson",
+        "url": "https://github.com/saketlab/lightson"
+    },
+    {
+        "package": "varunayan",
+        "url": "https://github.com/saketlab/varunayanR"
+    },
+    {
+        "package": "vayuayan",
+        "url": "https://github.com/saketlab/vayuayanR"
     }
-
 ]

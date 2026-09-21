@@ -10,6 +10,9 @@ R packages from [saketlab](https://github.com/saketlab) on [r-universe](https://
 | `anumaan` | Antimicrobial resistance surveillance preprocessing and burden estimation | [saketlab/anumaan](https://github.com/saketlab/anumaan) |
 | `seqout` | R client for the SeqOut genomics metadata search interface (GEO, SRA, ENA, ArrayExpress) | [saketlab/seqout](https://github.com/saketlab/seqout) |
 | `genevintage` | Detect the species and Ensembl/GENCODE release of gene IDs, then convert them to gene names | [saketlab/genevintage](https://github.com/saketlab/genevintage) |
+| `lightson` | Download and analyse nighttime lights satellite data | [saketlab/lightson](https://github.com/saketlab/lightson) |
+| `varunayan` | Download and process climate data from ERA5, IMD, HadEX3, and CRU TS | [saketlab/varunayanR](https://github.com/saketlab/varunayanR) |
+| `vayuayan` | Air quality data from CPCB, OAQ, and WUSTL satellite PM2.5 | [saketlab/vayuayanR](https://github.com/saketlab/vayuayanR) |
 
 ## Install
 
@@ -20,6 +23,9 @@ install.packages("censusindia", repos = "https://saketlab.r-universe.dev")
 install.packages("anumaan", repos = "https://saketlab.r-universe.dev")
 install.packages("seqout", repos = "https://saketlab.r-universe.dev")
 install.packages("genevintage", repos = "https://saketlab.r-universe.dev")
+install.packages("lightson", repos = "https://saketlab.r-universe.dev")
+install.packages("varunayan", repos = "https://saketlab.r-universe.dev")
+install.packages("vayuayan", repos = "https://saketlab.r-universe.dev")
 ```
 
 All of them, with CRAN dependencies resolved:
@@ -30,5 +36,5 @@ options(repos = c(
   CRAN = "https://cloud.r-project.org"
 ))
 
-install.packages(c("censusindia", "anumaan", "seqout", "genevintage"))
+install.packages(c("censusindia", "anumaan", "seqout", "genevintage", "lightson", "varunayan", "vayuayan"))
 ```

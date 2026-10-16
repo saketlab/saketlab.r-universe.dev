@@ -44,5 +44,9 @@
         "url": "https://github.com/saketlab/alethia",
         "subdir": "R",
         "branch": "main"
+    },
+    {
+        "package": "SexSeek",
+        "url": "https://github.com/saketlab/SexSeek"
     }
 ]

@@ -30,5 +30,19 @@
     {
         "package": "vayuayan",
         "url": "https://github.com/saketlab/vayuayanR"
+    },
+    {
+        "package": "mospiR",
+        "url": "https://github.com/saketkc/mospiR"
+    },
+    {
+        "package": "nesstarR",
+        "url": "https://github.com/saketkc/nesstarR"
+    },
+    {
+        "package": "alethiaR",
+        "url": "https://github.com/saketlab/alethia",
+        "subdir": "R",
+        "branch": "main"
     }
 ]

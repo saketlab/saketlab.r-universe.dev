@@ -13,6 +13,9 @@ R packages from [saketlab](https://github.com/saketlab) on [r-universe](https://
 | `lightson` | Download and analyse nighttime lights satellite data | [saketlab/lightson](https://github.com/saketlab/lightson) |
 | `varunayan` | Download and process climate data from ERA5, IMD, HadEX3, and CRU TS | [saketlab/varunayanR](https://github.com/saketlab/varunayanR) |
 | `vayuayan` | Air quality data from CPCB, OAQ, and WUSTL satellite PM2.5 | [saketlab/vayuayanR](https://github.com/saketlab/vayuayanR) |
+| `mospiR` | Client for the MoSPI microdata portal | [saketkc/mospiR](https://github.com/saketkc/mospiR) |
+| `nesstarR` | Read and export NESSTAR binary containers | [saketkc/nesstarR](https://github.com/saketkc/nesstarR) |
+| `alethiaR` | Match and deduplicate messy entity names against a reference list | [saketlab/alethia](https://github.com/saketlab/alethia) |
 
 ## Install
 
@@ -26,6 +29,9 @@ install.packages("genevintage", repos = "https://saketlab.r-universe.dev")
 install.packages("lightson", repos = "https://saketlab.r-universe.dev")
 install.packages("varunayan", repos = "https://saketlab.r-universe.dev")
 install.packages("vayuayan", repos = "https://saketlab.r-universe.dev")
+install.packages("mospiR", repos = "https://saketlab.r-universe.dev")
+install.packages("nesstarR", repos = "https://saketlab.r-universe.dev")
+install.packages("alethiaR", repos = "https://saketlab.r-universe.dev")
 ```
 
 All of them, with CRAN dependencies resolved:
@@ -36,5 +42,5 @@ options(repos = c(
   CRAN = "https://cloud.r-project.org"
 ))
 
-install.packages(c("censusindia", "anumaan", "seqout", "genevintage", "lightson", "varunayan", "vayuayan"))
+install.packages(c("censusindia", "anumaan", "seqout", "genevintage", "lightson", "varunayan", "vayuayan", "mospiR", "nesstarR", "alethiaR"))
 ```

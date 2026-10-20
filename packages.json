@@ -25,11 +25,15 @@
     },
     {
         "package": "varunayan",
-        "url": "https://github.com/saketlab/varunayanR"
+        "url": "https://github.com/saketlab/varunayan",
+        "subdir": "R",
+        "branch": "main"
     },
     {
         "package": "vayuayan",
-        "url": "https://github.com/saketlab/vayuayanR"
+        "url": "https://github.com/saketlab/vayuayan",
+        "subdir": "R",
+        "branch": "main"
     },
     {
         "package": "mospiR",
